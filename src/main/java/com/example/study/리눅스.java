@@ -1,4 +1,4 @@
-package com.example.study.리눅스;
+package com.example.study;
 
 import java.util.Scanner;
 
@@ -14,7 +14,7 @@ import java.util.Scanner;
  * 각 명령어는 특정한 목적과 동작 원리를 가지고 있으며,
  * 옵션(Options)과 인수(Arguments)를 통해 세부적인 동작을 제어할 수 있습니다.
  */
-public class LinuxCommandsTutorial {
+public class 리눅스 {
     
     private static Scanner scanner = new Scanner(System.in);
     
